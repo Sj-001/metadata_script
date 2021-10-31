@@ -1,0 +1,18 @@
+{
+  "dna": "cdde3b43ed55797125fcfc8ac59cf5468591b2b1",
+  "name": "#50",
+  "description": "This is the a TEST - 50 images from Salvator World",
+  "image": "ipfs://QmSMbKii3kvEKrEnkGSgphNYezoLru4agvGEZ7cMYokFRu/50.png",
+  "edition": 50,
+  "date": 1635147977900,
+  "attributes": [
+    { "trait_type": "Background", "value": "Green Texture" },
+    { "trait_type": "Clothing", "value": "Bomber Yellow" },
+    { "trait_type": "Accessories", "value": "Nazar" },
+    { "trait_type": "Hands", "value": "blue" },
+    { "trait_type": "Objects", "value": "The Dark Side" },
+    { "trait_type": "Eyes", "value": "Green" },
+    { "trait_type": "Artifacts", "value": "Benjamin" }
+  ],
+  "compiler": "HashLips Art Engine"
+}
